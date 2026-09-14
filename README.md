@@ -236,4 +236,4 @@ This repository serves as the official landing page for Sonos. The software is d
 **Get the most recent version of Sonos today!**
 
 ---
-**Last updated:** 2026-09-14 20:41:54 UTC
+**Last updated:** 2026-09-14 23:38:04 UTC
